@@ -1,0 +1,14 @@
+section.sliders {
+  max-width: 500px;
+  margin: auto;
+  margin-top: 10%;
+}
+
+section.sliders img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+ .slider-nav .slick-slide {
+  margin: 0px 5px;
+}
